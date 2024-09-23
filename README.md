@@ -29,8 +29,8 @@ To use this application, you're going to need:
 Firstly, clone this repository and change into the cloned directory with the following commands:
 
 ```bash
-git clone git@github.com:settermjd/block-spam-calls-php.git
-cd block-spam-calls-php
+git clone git@github.com:twilio-samples/sms-phone-verification-php.git
+cd sms-phone-verification-php
 ```
 
 Then, install PHP's dependencies:
@@ -129,3 +129,5 @@ No warranty expressed or implied. Software is as is.
 [twilio_console_verify_services_url]: https://console.twilio.com/us1/develop/verify/services
 [twilio_verify_url]: https://www.twilio.com/en-us/user-authentication-identity/verify
 [mit_license_url]: http://www.opensource.org/licenses/mit-license.html
+[twilio_phone_number_setup_url]: https://www.twilio.com/docs/phone-numbers
+[twilio_referral_url]: https://www.twilio.com/try-twilio
